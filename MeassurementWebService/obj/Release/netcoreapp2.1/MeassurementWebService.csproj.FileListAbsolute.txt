@@ -1,0 +1,15 @@
+C:\source\MeassurementWebService\MeassurementWebService\bin\Release\netcoreapp2.1\MeassurementWebService.deps.json
+C:\source\MeassurementWebService\MeassurementWebService\bin\Release\netcoreapp2.1\MeassurementWebService.runtimeconfig.json
+C:\source\MeassurementWebService\MeassurementWebService\bin\Release\netcoreapp2.1\MeassurementWebService.runtimeconfig.dev.json
+C:\source\MeassurementWebService\MeassurementWebService\bin\Release\netcoreapp2.1\MeassurementWebService.dll
+C:\source\MeassurementWebService\MeassurementWebService\bin\Release\netcoreapp2.1\MeassurementWebService.pdb
+C:\source\MeassurementWebService\MeassurementWebService\obj\Release\netcoreapp2.1\MeassurementWebService.csproj.CoreCompileInputs.cache
+C:\source\MeassurementWebService\MeassurementWebService\obj\Release\netcoreapp2.1\MeassurementWebService.RazorAssemblyInfo.cache
+C:\source\MeassurementWebService\MeassurementWebService\obj\Release\netcoreapp2.1\MeassurementWebService.RazorAssemblyInfo.cs
+C:\source\MeassurementWebService\MeassurementWebService\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\source\MeassurementWebService\MeassurementWebService\obj\Release\netcoreapp2.1\MeassurementWebService.AssemblyInfoInputs.cache
+C:\source\MeassurementWebService\MeassurementWebService\obj\Release\netcoreapp2.1\MeassurementWebService.AssemblyInfo.cs
+C:\source\MeassurementWebService\MeassurementWebService\obj\Release\netcoreapp2.1\MeassurementWebService.RazorTargetAssemblyInfo.cache
+C:\source\MeassurementWebService\MeassurementWebService\obj\Release\netcoreapp2.1\MeassurementWebService.dll
+C:\source\MeassurementWebService\MeassurementWebService\obj\Release\netcoreapp2.1\MeassurementWebService.pdb
+C:\source\MeassurementWebService\MeassurementWebService\obj\Release\netcoreapp2.1\MeassurementWebService.csprojAssemblyReference.cache

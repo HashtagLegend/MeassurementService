@@ -1,0 +1,11 @@
+C:\source\MeassurementWebService\UdpBroadcastReceiver\bin\Debug\netcoreapp2.1\UdpBroadcastReceiver.deps.json
+C:\source\MeassurementWebService\UdpBroadcastReceiver\bin\Debug\netcoreapp2.1\UdpBroadcastReceiver.runtimeconfig.json
+C:\source\MeassurementWebService\UdpBroadcastReceiver\bin\Debug\netcoreapp2.1\UdpBroadcastReceiver.runtimeconfig.dev.json
+C:\source\MeassurementWebService\UdpBroadcastReceiver\bin\Debug\netcoreapp2.1\UdpBroadcastReceiver.dll
+C:\source\MeassurementWebService\UdpBroadcastReceiver\bin\Debug\netcoreapp2.1\UdpBroadcastReceiver.pdb
+C:\source\MeassurementWebService\UdpBroadcastReceiver\obj\Debug\netcoreapp2.1\UdpBroadcastReceiver.csproj.CoreCompileInputs.cache
+C:\source\MeassurementWebService\UdpBroadcastReceiver\obj\Debug\netcoreapp2.1\UdpBroadcastReceiver.AssemblyInfoInputs.cache
+C:\source\MeassurementWebService\UdpBroadcastReceiver\obj\Debug\netcoreapp2.1\UdpBroadcastReceiver.AssemblyInfo.cs
+C:\source\MeassurementWebService\UdpBroadcastReceiver\obj\Debug\netcoreapp2.1\UdpBroadcastReceiver.dll
+C:\source\MeassurementWebService\UdpBroadcastReceiver\obj\Debug\netcoreapp2.1\UdpBroadcastReceiver.pdb
+C:\source\MeassurementWebService\UdpBroadcastReceiver\obj\Debug\netcoreapp2.1\UdpBroadcastReceiver.csprojAssemblyReference.cache
